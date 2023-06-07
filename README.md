@@ -8,5 +8,6 @@ Let me redirect you to a few resources that may help you if you're jumping into 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
- -[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Also, please see this following link which offers tutorials, samples, guidance on mobile development, and a full API reference.
+- [online documentation](https://docs.flutter.dev/), 
